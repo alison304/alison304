@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alison Janise Paico Quispe</h1>
+<h1 align="center">Hi 👋, I'm Alison Paico </h1>
 <h3 align="center">A passionate fullstack developer jr. from Perú</h3>
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/alisonjpq](https://troopl.com/alisonjpq)
